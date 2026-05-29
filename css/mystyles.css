@@ -49,3 +49,34 @@ section#cta{
 section#about h1{
     color: rgb(232, 232, 232);
 }
+.musicword{
+    color: white;
+}
+.card-text{
+    color: rgb(255, 255, 255);
+}
+.card-title{
+    color: white;
+}
+.card-body{
+    background-color: black;
+    border: 2px solid rgb(255, 255, 255);
+
+}
+section#callme{
+    background-image: url("../assets/img/camo.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.schoolword{
+    color: black;
+}
+.header{
+    padding-top: 50px;
+}
+.hankpic{
+    width: 24%;
+    border-radius: 10px;
+}
