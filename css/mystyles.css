@@ -71,7 +71,7 @@ section#callme{
     background-size: cover;
 }
 .schoolword{
-    color: black;
+    color: rgb(0, 0, 0);
 }
 .header{
     padding-top: 50px;
@@ -79,4 +79,7 @@ section#callme{
 .hankpic{
     width: 95%;
     border-radius: 10px;
+}
+.cardword{
+    color: aliceblue;
 }
